@@ -1,15 +1,13 @@
 {
-  "name": "no1",
+  "name": "optri",
   "theme": "syntax",
-  "version": "0.1.1",
-  "description": ": สูตรบาคาร่า จากเว็บตรง มัดรวบทุกค่ายที่ว่าดังและดี มีกำไรรอให้คุณกอบโกยดั่งสายน้ำ
-รองรับทุกระบบมือถือ ไม่ต้องดาวโหลดให้มากความ
-",
+  "version": "0.1.0",
+  "description": "tetrdr",
   "keywords": [
-    "สูตรบาคาร่า",
-    "บาคาร่าทดลอง",
-    "วิธีเล่นบาคาร่า",
-    "บาคาร่าออนไลน์"
+    "ter",
+    "thetrme"
+    "thetrme"
+    "thetrme"
   ],
   "repository": "https://github.com/123goalgoal/optri",
   "license": "MIT",
